@@ -40,3 +40,9 @@ Debe tener acceso de usuario raíz al servidor Red Hat Enterprise Linux o CentOS
 `systemctl start ocieau`
 
 
+
+[NOTE]
+====
+`mysqld` Es un programa daemon requerido para iniciar y detener el servidor MySQL.
+
+====

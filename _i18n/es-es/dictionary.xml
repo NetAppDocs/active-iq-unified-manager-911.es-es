@@ -9202,9 +9202,6 @@
   <block id="605d06ffbb7b67366593490b2ea886c2" category="paragraph">Puede seleccionar una vista preferida y utilizar los botones de acción según sea necesario. La configuración de pantallas se guarda en un espacio de trabajo, de modo que todas las funcionalidades necesarias se encuentren disponibles al iniciar Unified Manager. Sin embargo, es posible que cuando se navega desde una vista a otra y se navega hacia atrás, la vista no sea la misma.</block>
   <block id="fee984743f91b24dec86f77ceb6dd622" category="summary">Puede usar la página Cluster Setup para ver el inventario de clústeres. Es posible ver detalles sobre los clústeres, como su nombre, dirección IP y estado de comunicación.</block>
   <block id="ee45945ca017877dfd40f7584086a95c" category="doc">Se muestra la lista de clústeres supervisados</block>
-  <block id="9dc7252bbef57ce4f0d03bcddb84711c" category="paragraph">La lista de clústeres se ordena según la columna Collection state Severity Level. Puede hacer clic en un encabezado de columna para ordenar los clústeres por columnas diferentes.</block>
-  <block id="45ec896bf3e43c4d453f4fa4f22106ca" category="inline-link-macro">Página Configuration/Cluster Data Sources</block>
-  <block id="01b124e9964263d377fc183d69afb2ed" category="paragraph"><block ref="01b124e9964263d377fc183d69afb2ed" category="inline-link-macro-rx"></block></block>
   <block id="0340d50bec29babb85bde15bd2f8702b" category="summary">Active IQ Unified Manager (anteriormente Unified Manager de OnCommand) le permite supervisar y gestionar el estado y el rendimiento de sus sistemas de almacenamiento de ONTAP desde una única interfaz.</block>
   <block id="7ffbf45415ec3a8ede3ec4df0adeeaf4" category="paragraph">Unified Manager proporciona las siguientes funciones:</block>
   <block id="57176c25e437ef809024d439f5a203d1" category="list-text">Detección, supervisión y notificaciones de los sistemas instalados con el software ONTAP.</block>
@@ -11581,8 +11578,6 @@
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Más recursos</block>
   <block id="aa193eacf5a35a85044e44de3fa9c91a" category="sidebar">Vídeos de Unified Manager</block>
   <block id="197833bfff97d501603036a0febb7a95" category="sidebar">Blogs de Unified Manager</block>
-  <block id="a28def0e6555993fb14b2d945874f854" category="sidebar">Documentación para Active IQ Unified Manager 9.10</block>
-  <block id="b4326b5cab8385bbedf7c504d8569004" category="sidebar">Documentación para versiones anteriores</block>
   <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager</block>
   <block id="77d7ce66941e6a8a53f84f813d2b2bf1" category="sidebar">Gestión del almacenamiento usando API de REST</block>
   <block id="97fe658caa11a827b1561a6db6e7b2f0" category="sidebar">Primeros pasos con Active IQ Unified Manager</block>
@@ -11647,4 +11642,7 @@
   <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">Realizar tareas administrativas y de configuración</block>
   <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">Generar informes personalizados</block>
   <block id="9304b0fee761c30cb0f91f15de511efc" category="sidebar">Creación de un informe para ver agregados casi completos</block>
+  <block id="228689b16f6e524fb9ed06d81f33db6b" category="paragraph"><block ref="7e3bc202e89677c6d62e218685393bf5" prefix="" category="inline-code"></block> Es un programa daemon requerido para iniciar y detener el servidor MySQL.</block>
+  <block id="13490f69efe6e04b704eff78476a43b8" category="paragraph">Se muestran todos los clústeres del entorno de almacenamiento gestionados por Unified Manager. La lista de clústeres se ordena según la columna Collection state Severity Level. Puede hacer clic en un encabezado de columna para ordenar los clústeres por columnas diferentes.</block>
+  <block id="ede607b26fd609858d7be7ff1e138cb0" category="sidebar">Documentación de Active IQ Unified Manager 9.9 o anterior</block>
 </blocks>
