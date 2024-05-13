@@ -9520,7 +9520,6 @@
   <block id="ea608082302fc7e5b4601ee26d2ccd6f" category="paragraph">Tenga en cuenta que, cuando no se puede acceder a un clúster, Unified Manager muestra esta información en esta página. Puede ver información detallada sobre un clúster que no se puede acceder haciendo clic en el botón *Detalles*. Con esta acción se abre la página de detalles Event. En esta página también se muestran los problemas de monitorización de escala, como poco espacio o RAM en la estación de administración.</block>
   <block id="2e0ce0c1393ab51e436829b53418364f" category="list-text">En la barra de menú, haga clic en <block ref="3239f962cd3dbc67156be1dfd90ada7f" category="inline-image-macro-rx" type="image"></block>.</block>
   <block id="506db986e5d90bc85ebacd52806add70" category="list-text">Para ver los detalles de cualquiera de los eventos activos, haga clic en el enlace de texto del evento, como "2 capacidad" o "4 rendimiento".</block>
-  <block id="91d9102f2b20d2487525cb47bf7d79a5" category="summary">Documentación para documentos de Active IQ Unified Manager, documentos de AIUM y de UM</block>
   <block id="4a58c6ba2ac7cf0f2cd001d223b14e50" category="doc">Documentación de Active IQ Unified Manager</block>
   <block id="5f03fcd1de4eb6c394b1713126eeae48" category="admonition">El puerto predeterminado de MySQL, 3306, está restringido solo a localhost mientras se instala Unified Manager en sistemas Linux. Esto no afecta a ningún escenario de actualización donde se mantenga la configuración anterior. Esta configuración puede modificarse y la conexión puede ponerse a disposición de otros hosts mediante el<block ref="dd441ca9450a58c2c7b09ab86e8f7a28" prefix=" " category="inline-code"></block> de la consola de mantenimiento.</block>
   <block id="b56bb9221ecbd973e0020146b7742e06" category="paragraph">Base de datos MySQL</block>
@@ -11573,7 +11572,6 @@
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Más recursos</block>
   <block id="aa193eacf5a35a85044e44de3fa9c91a" category="sidebar">Vídeos de Unified Manager</block>
   <block id="197833bfff97d501603036a0febb7a95" category="sidebar">Blogs de Unified Manager</block>
-  <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager</block>
   <block id="77d7ce66941e6a8a53f84f813d2b2bf1" category="sidebar">Gestión del almacenamiento usando API de REST</block>
   <block id="97fe658caa11a827b1561a6db6e7b2f0" category="sidebar">Primeros pasos con Active IQ Unified Manager</block>
   <block id="bd4ee34a212cad4c3967a916d3b5b99c" category="sidebar">Gestionar objetos de almacenamiento en un centro de datos</block>
@@ -11649,4 +11647,6 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="37c7899d698773f8f7aa6773dd5364e8" category="sidebar">Active IQ Unified Manager (Unified Manager y anteriormente OnCommand Unified Manager) le permite supervisar y gestionar el estado y el rendimiento de sus sistemas de almacenamiento de ONTAP desde una única interfaz. Esta biblioteca de documentación incluye información para la versión 9,11.</block>
+  <block id="65636d112d8b82b2ab94299262a2cc8c" category="sidebar">Documentación para Active IQ Unified Manager 9,11.</block>
 </blocks>
